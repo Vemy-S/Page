@@ -1,0 +1,20 @@
+:root{
+    --backgroundcards: #161a23;
+    --text: #fffdf2;
+    --textoffandbackground: #222631;
+    --active: #20c750;
+    --buttons: #ff8c41;
+    --tags: #755cf6;
+
+}
+
+html{
+    background-color: var(--textoffandbackground);
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-grid{
+    color: var(--text);
+}
